@@ -5,4 +5,6 @@ out
 .gradle
 
 application-db.properties
+application-app.properties
+application-log.properties
 logs/
